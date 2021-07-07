@@ -4,7 +4,7 @@
  Source Server         : 华为
  Source Server Type    : MySQL
  Source Server Version : 50733
- Source Host           : 117.78.8.75:3306
+ Source Host           : 117.78.*.*:3306
  Source Schema         : DVD
 
  Target Server Type    : MySQL
