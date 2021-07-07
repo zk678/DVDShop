@@ -64,9 +64,8 @@ INSERT INTO `dvd` VALUES ('11123', 1, '少时诵诗书', '十三点', '时代的
 INSERT INTO `dvd` VALUES ('1199773', 3, '李小龙', '踩踩踩', '塞俄', 1);
 INSERT INTO `dvd` VALUES ('1223', 3, 'dadada', '水水水', '啥的', 1);
 INSERT INTO `dvd` VALUES ('123', 2, '等', '大', '顶', 1);
-INSERT INTO `dvd` VALUES ('12345678', 1, '计算机科学与技术', '程要亮', '北京出版社', 1);
-INSERT INTO `dvd` VALUES ('233124', 2, '这是一个爱情片', '程要亮', '三生三世十里桃花', 1);
-INSERT INTO `dvd` VALUES ('953111123', 1, '三体', '刘慈欣', '长江文学', 0);
+INSERT INTO `dvd` VALUES ('12345678', 1, '计算机科学与技术', '嘎嘎嘎', '北京出版社', 1);
+INSERT INTO `dvd` VALUES ('233124', 2, '这是一个爱情片', '啊啊啊', '三生三世十里桃花', 1);
 
 -- ----------------------------
 -- Table structure for dvdtype
@@ -106,10 +105,8 @@ CREATE TABLE `reader`  (
 -- ----------------------------
 -- Records of reader
 -- ----------------------------
-INSERT INTO `reader` VALUES ('110', '程要亮', '男', '1234', '2021-05-26', 1);
 INSERT INTO `reader` VALUES ('111', '李华', '女', '21341234', '2021-05-27', 1);
 INSERT INTO `reader` VALUES ('112', '李明', '男', '13343121', '2021-05-27', 1);
-INSERT INTO `reader` VALUES ('113', '任善吉', '女', '1234123', '2021-05-27', 1);
 INSERT INTO `reader` VALUES ('123', '123', '男', '123333', '2021-07-04', 0);
 INSERT INTO `reader` VALUES ('1233', '啊啊啊啊', '男', '1111122', '2021-07-04', 1);
 INSERT INTO `reader` VALUES ('334', '成都市', '女', NULL, '2021-07-04', 0);
