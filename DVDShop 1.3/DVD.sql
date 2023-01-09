@@ -4,14 +4,12 @@
  Source Server         : 华为
  Source Server Type    : MySQL
  Source Server Version : 50733
- Source Host           : 117.78.*.*:3306
+ Source Host           : 117.*.*.*:3306
  Source Schema         : DVD
 
  Target Server Type    : MySQL
  Target Server Version : 50733
  File Encoding         : 65001
-
- Date: 04/07/2021 23:20:52
 */
 
 SET NAMES utf8mb4;
